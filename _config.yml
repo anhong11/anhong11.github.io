@@ -1,5 +1,12 @@
 theme: minima
 title: Hong An
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: Hong_An_
+    github:  anhong11
 header_pages:
   - Research.md
   - Publications.md
