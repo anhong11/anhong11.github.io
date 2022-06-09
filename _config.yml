@@ -1,2 +1,5 @@
 theme: minima
 title: Hong An
+header_pages:
+  - about.md
+  - portfolio.md
