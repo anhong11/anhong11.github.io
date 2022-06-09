@@ -11,3 +11,6 @@ header_pages:
   - Research.md
   - Publications.md
   - About.md
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
