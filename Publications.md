@@ -8,9 +8,13 @@ permalink: /Publications/
 
 __An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-porotcol. (In revision)    
 Hu J, Chen B, Zhao J, Zhang F, Xie T, Xu K, Gao G, Yan G, Li H, Li L, Ji G, An H, Li H, Huang Q, Zhang M, Wu J, Song W, Zhang X, Luo Y, Pires JC, Batley J, Tian S, Wu X (2022). Genomic selection and genetic architecture of agronomic traits during modern rapeseed breeding. Nature Genetics. 10.1038/s41588-022-01055-6    
+   
 Yim WC, Swain ML, Ma D, __An H__, Bird K, Crudie DD, Wang S, Ham HD, Luzuriaga-Neira A, Kirkwood JS, Hur M, Solomon JKQ, Harper JF, Kosma DK, Alvarez-Ponce D, Cushman JC, Edger PP, Mason AS, Pires JC, Tang H, Zhang X (2022). The last missing piece of the Triangle of U: the evolution of the tetraploid Brassica carinata genome. BioRxiv. 10.1101/2022.01.03.474831 (also revised in the Plant Cell)    
+   
 Kang L, Qian L, Zheng M, Chen L, Chen H, Yang L, You L, Yang B, Yan M, Gu Y, Wang T, Schiessl SV, __An H__, Paul B, Liu X, Lu H, Zhang D, Rao Y, Jia D, Zhou D, Xiao H, Wang Y, Xiong X, Mason SA, Pires JC, Snowdon R, Hua W, Liu Z (2021). Genomic insights into the origin, domestication and diversification of Brassica juncea. Nature Genetics. 53, 1392–1402 (2021)    
+    
 Mabry ME, Turner SD, Gallagher EY, McAlvay AC, __An H__, Edger PP, Moore JD, Pink DAC, Teakle GR, Stevens CJ, Barker G, Labate J, Fuller DG, Alibi RG, Beissinger TM, Decker JE, Gore MA, Pires JC (2021). The Evolutionary History of Wild, Domesticated, and Feral Brassica oleracea (Brassicaceae). Molecular Biology and Evolution. msab183    
+    
 McAlvay AC, Ragsdale AP, Mabry ME, Qi X, Bird K, Velasco P, __An H__, Pires JC, Emshwiller E (2021). Brassica rapa domestication: untangling wild and feral forms and convergence of crop morphotypes. Molecular Biology and Evolution. Volume 38, Issue 8, August 2021, Pages 3358–3372   
 Hao Y, Mabry ME, Edger PP, Freeling M, Zheng C, Jin L, VanBuren R, Colle M, __An H__, Abrahams RS, Qi X, Barry K, Daum C, Shu S, Schmutz J, Sankoff D, Barker MS, Lyons E, Pires JC, Conant GC (2021). The Contributions of the Allopolyploid Parents of the Mesopolyploid Brassiceae are Evolutionarily Distinct but Functionally Compatible. Genome Research. 10.1101/gr.270033.120   
 Qi XS*, __An H__* , Hall TE, Di CL, Blischak PD, Pires JC, Barker MS (2021). Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in Brassica rapa. New Phytologist. 10.1111/nph.17194   
