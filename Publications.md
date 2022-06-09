@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-## [Google Scholar](https://scholar.google.com/citations?user=-hlqhd0AAAAJ&hl=en)   
+### [Google Scholar](https://scholar.google.com/citations?user=-hlqhd0AAAAJ&hl=en)   
 
 __An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-porotcol. (In revision)    
    
