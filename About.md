@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /About/
+title: About
+permalink: /About me/
 ---
 
 ### Hong An
