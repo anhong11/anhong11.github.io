@@ -1,2 +1,30 @@
-theme: jekyll-theme-slate
-title: Hong An's homepage
+name: "Paul Blischak"
+output_dir: "."
+exclude: ["README.md", "LICENSE.md"]
+navbar:
+  title: Paul Blischak
+  left:
+  - text: Research
+    icon: fa-laptop
+    href: research.html
+  - text: Publications
+    icon: fa-newspaper-o
+    href: publications.html
+  - text: Software
+    icon: fa-code-fork
+    href: software.html
+  right:
+  - icon: fa-github-square fa-lg
+    href: https://github.com/pblischak
+  - icon: fa-linkedin fa-lg
+    href: https://linkedin.com/in/paulblischak
+  - icon: fa-twitter-square fa-lg
+    href: https://twitter.com/PaulBlischak
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.md
+    lib_dir: site_libs
+    self_contained: no
