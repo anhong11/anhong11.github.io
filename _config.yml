@@ -26,3 +26,5 @@ output:
       after_body: footer.md
     lib_dir: site_libs
     self_contained: no
+
+theme: jekyll-theme-slate
