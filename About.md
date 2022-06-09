@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /About/
 ---
 
-### HONG AN
+### Hong An
 Bioinformatics and Analytics Core | University of Missouri-Columbia   
 106a Bond Life Science Center, Columbia, MO 65211
 
