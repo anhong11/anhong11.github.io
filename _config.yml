@@ -12,5 +12,4 @@ header_pages:
   - Publications.md
   - About.md
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
