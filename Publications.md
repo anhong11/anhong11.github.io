@@ -20,7 +20,7 @@ McAlvay AC, Ragsdale AP, Mabry ME, Qi X, Bird K, Velasco P, __An H__, Pires JC, 
    
 Hao Y, Mabry ME, Edger PP, Freeling M, Zheng C, Jin L, VanBuren R, Colle M, __An H__, Abrahams RS, Qi X, Barry K, Daum C, Shu S, Schmutz J, Sankoff D, Barker MS, Lyons E, Pires JC, Conant GC (2021). The Contributions of the Allopolyploid Parents of the Mesopolyploid Brassiceae are Evolutionarily Distinct but Functionally Compatible. Genome Research. 10.1101/gr.270033.120   
    
-Qi XS*, __An H__* , Hall TE, Di CL, Blischak PD, Pires JC, Barker MS (2021). Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in Brassica rapa. New Phytologist. 10.1111/nph.17194   
+Qi XS* , __An H__* , Hall TE, Di CL, Blischak PD, Pires JC, Barker MS (2021). Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in Brassica rapa. New Phytologist. 10.1111/nph.17194   
    
 Züst T, Strickler SR, Powell AF, Mabry ME, __An H__, Mirzaei M, York T, Holland CK, Kumar P, Erb M, Petschenka G, MGoméz J, Perfectti F, Müller C, Pires JC, Mueller LA, Jande G (2020). Independent evolution of ancestral and novel defenses in a genus of toxic plants (Erysimum, Brassicaceae). eLife. 9, e51712   
    
