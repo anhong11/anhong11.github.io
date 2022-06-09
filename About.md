@@ -16,5 +16,5 @@ Bioinformatics and Analytics Core | University of Missouri-Columbia
 
 ### EDUCATION
 2011-2016	Ph.D. Crop Genetic Breeding, Huazhong Agricultural University, Wuhan, China; Advisor: Tingdong Fu   
-\t 2014-2016	Joint graduate student (part of Ph.D. program), University of Missouri, Columbia, USA   
+    2014-2016	Joint graduate student (part of Ph.D. program), University of Missouri, Columbia, USA   
 2007-2011	B.S. Agriculture, Huazhong Agricultural University, Wuhan, China   
