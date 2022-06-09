@@ -1,8 +1,8 @@
-name: "Paul Blischak"
+name: "Hong An"
 output_dir: "."
 exclude: ["README.md", "LICENSE.md"]
 navbar:
-  title: Paul Blischak
+  title: Hong An
   left:
   - text: Research
     icon: fa-laptop
@@ -10,9 +10,7 @@ navbar:
   - text: Publications
     icon: fa-newspaper-o
     href: publications.html
-  - text: Software
-    icon: fa-code-fork
-    href: software.html
+ 
   right:
   - icon: fa-github-square fa-lg
     href: https://github.com/pblischak
