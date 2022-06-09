@@ -6,7 +6,7 @@ permalink: /About/
 
 ### HONG AN
 Bioinformatics and Analytics Core | University of Missouri-Columbia   
-106a Bond LSC, Columbia, MO 65211
+106a Bond Life Science Center, Columbia, MO 65211
 
 
 ### POSITION
