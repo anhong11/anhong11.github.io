@@ -6,7 +6,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: Hong_An_
-    github:  anhong11
+    github: anhong11
 header_pages:
   - Research.md
   - Publications.md
