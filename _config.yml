@@ -3,7 +3,7 @@ title: Hong An
 show_excerpts: false
 minima:
  
-
+  date_format: "%b %-d, %Y"
   # generate social links in footer
   social_links:
     twitter: Hong_An_
