@@ -1,6 +1,6 @@
 ![](figures/fig1.jpg)
 
-## Bioinformatics, Genomics, and Plants
+# Bioinformatics, Genomics, and Plants
 
 I am currently a Data Scientist with [Bioinformatics and Analytics Core](https://bioinformatics.missouri.edu/) at the University of Missouri.   
    
