@@ -11,8 +11,8 @@ Bioinformatics and Analytics Core | University of Missouri-Columbia
 
 ### POSITION
 2022-present &emsp; Data Scientist, University of Missouri   
-2019-2022	&emsp; Research Scientist, University of Missouri, Advisor: J. Chris Pires    
-2017-2019	&emsp; Postdoctoral Fellow, University of Missouri, Advisor: J. Chris Pires   
+2019-2022	&emsp;&emsp; Research Scientist, University of Missouri, Advisor: J. Chris Pires    
+2017-2019	&emsp;&emsp; Postdoctoral Fellow, University of Missouri, Advisor: J. Chris Pires   
 
 ### EDUCATION
 2011-2016 &emsp;	Ph.D. Crop Genetic Breeding, Huazhong Agricultural University, Wuhan, China   
