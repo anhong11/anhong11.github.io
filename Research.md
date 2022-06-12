@@ -4,4 +4,5 @@ title: Research
 permalink: /Research/
 ---
 
-This is
+![](figures/hic.png)
+## Brassica napus pan-genome
