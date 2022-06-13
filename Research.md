@@ -5,6 +5,8 @@ permalink: /Research/
 ---
 
 ![](figures/hic.png)
-## Brassica napus pan-genome
+## _Brassica napus_ pan-genome
 ![](figures/network.jpg)
-## Brassica napus population genetics
+## _Brassica napus_ population genetics
+![](figures/rapa.png)
+## _Brassica rapa_ population genetics
