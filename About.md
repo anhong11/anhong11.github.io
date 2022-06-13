@@ -5,9 +5,9 @@ permalink: /About/
 ---
 
 ### Hong An
-Bioinformatics and Analytics Core | University of Missouri-Columbia   
-106a Bond Life Science Center, Columbia, MO 65211
-
+Bioinformatics and Analytics Core      
+106a Bond Life Science Center | University of Missouri-Columbia   
+Columbia, MO 65211   
 
 ### POSITION
 2022-present &emsp; Data Scientist, University of Missouri   
