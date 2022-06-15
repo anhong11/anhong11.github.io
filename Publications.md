@@ -38,7 +38,7 @@ Li M, __An H__, Angelovici R, Bagaza C, Batushansky A, Clark L, Coneva V, Donogh
    
 Zhang T, Zheng QF, Yi X, __An H__, Zhao YL, Ma SQ, Zhou GH (2018). Establishing RNA virus resistance in plants by harnessing CRISPR immune system. Plant Biotechnology Journal. 10.1111/pbi.12881   
    
-Qi XS*, __An H__* , Ragsdale AP, Hall TE, Gutenkunst RN, Pires JC, Barker MS (2017). Genomic inferences of domestication events are corroborated by written records in Brassica rapa. Molecular Ecology. 10.1111/mec.14131 (Co-first author)   
+Qi XS* , __An H__* , Ragsdale AP, Hall TE, Gutenkunst RN, Pires JC, Barker MS (2017). Genomic inferences of domestication events are corroborated by written records in Brassica rapa. Molecular Ecology. 10.1111/mec.14131 (Co-first author)   
    
 Bird KA, __An H__, Gazave E, Gore MA, Pires JC, Robertson LD, Labate JA (2017). Population structure and phylogenetic relationships in a diverse panel of Brassica rapa L. Frontiers in Plant Science. 8, 321   
    
