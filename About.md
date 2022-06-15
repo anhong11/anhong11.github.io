@@ -6,11 +6,11 @@ permalink: /About/
 
 ### Hong An
 Bioinformatics and Analytics Core      
-106a Bond Life Science Center | University of Missouri-Columbia   
+106a Bond Life Sciences Center | University of Missouri   
 Columbia, MO 65211   
 
 ### POSITION
-2022-present &emsp; Data Scientist, University of Missouri   
+2022-present &emsp;  Data Scientist, University of Missouri   
 2019-2022	&emsp;&emsp; Research Scientist, University of Missouri, Advisor: J. Chris Pires    
 2017-2019	&emsp;&emsp; Postdoctoral Fellow, University of Missouri, Advisor: J. Chris Pires   
 
