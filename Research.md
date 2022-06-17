@@ -7,7 +7,7 @@ permalink: /Research/
 ### _Brassica napus_ pan-genome
     
 ![](figures/hic.png)
-Combine Pacbio, HiC, and Bionano sequencing to _de novo_ assemble high-quality genomes of two subspecies of _Brassica napus_: Siberian kale and rutabaga. Subsequently, we will construct species level _B. napus_ pan-genome, and further investigate the association between SVs, PAVs, and agronomic traits.   
+Combine Pacbio, HiC, and Bionano sequencing to _de novo_ assemble high-quality genomes of two subspecies of _Brassica napus_: Siberian kale and rutabaga. Subsequently, we will construct species level _B. napus_ pan-genome, and further investigate the association between SVs, PAVs, and agronomic traits. The Hi-C scaffolding protocol can be find on [GitHub](https://github.com/Bio-protocol/Plant_genome_Hi-C_scaffolding)  
       
      
 ### _Brassica napus_ origin and diversification
