@@ -6,7 +6,7 @@ permalink: /Publications/
 
 ### [Google Scholar](https://scholar.google.com/citations?user=-hlqhd0AAAAJ&hl=en)   
 
-__An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-porotcol. (In revision)    
+__An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-protocol. (In revision)    
    
 Hu J, Chen B, Zhao J, Zhang F, Xie T, Xu K, Gao G, Yan G, Li H, Li L, Ji G, __An H__, Li H, Huang Q, Zhang M, Wu J, Song W, Zhang X, Luo Y, Pires JC, Batley J, Tian S, Wu X (2022). Genomic selection and genetic architecture of agronomic traits during modern rapeseed breeding. Nature Genetics. 10.1038/s41588-022-01055-6    
    
