@@ -6,12 +6,12 @@ permalink: /Publications/
 
 ### [Google Scholar](https://scholar.google.com/citations?user=-hlqhd0AAAAJ&hl=en)   
 
-__An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-protocol. (In revision)    
+Yim WC, Swain ML, Ma D, __An H__, Bird K, Crudie DD, Wang S, Ham HD, Luzuriaga-Neira A, Kirkwood JS, Hur M, Solomon JKQ, Harper JF, Kosma DK, Alvarez-Ponce D, Cushman JC, Edger PP, Mason AS, Pires JC, Tang H, Zhang X (2022). The last missing piece of the Triangle of U: the evolution of the tetraploid Brassica carinata genome. Plant Cell (Accepted)     
+
+__An H__, Xiao Q, Jia Z, Pires JC, Yi B (2022). Contigs scaffolding with Hi-C for plant genomes. Bio-protocol. (Accepted)    
    
 Hu J, Chen B, Zhao J, Zhang F, Xie T, Xu K, Gao G, Yan G, Li H, Li L, Ji G, __An H__, Li H, Huang Q, Zhang M, Wu J, Song W, Zhang X, Luo Y, Pires JC, Batley J, Tian S, Wu X (2022). Genomic selection and genetic architecture of agronomic traits during modern rapeseed breeding. Nature Genetics. 10.1038/s41588-022-01055-6    
-   
-Yim WC, Swain ML, Ma D, __An H__, Bird K, Crudie DD, Wang S, Ham HD, Luzuriaga-Neira A, Kirkwood JS, Hur M, Solomon JKQ, Harper JF, Kosma DK, Alvarez-Ponce D, Cushman JC, Edger PP, Mason AS, Pires JC, Tang H, Zhang X (2022). The last missing piece of the Triangle of U: the evolution of the tetraploid Brassica carinata genome. BioRxiv. 10.1101/2022.01.03.474831 (also revised in the Plant Cell)    
-   
+  
 Kang L, Qian L, Zheng M, Chen L, Chen H, Yang L, You L, Yang B, Yan M, Gu Y, Wang T, Schiessl SV, __An H__, Paul B, Liu X, Lu H, Zhang D, Rao Y, Jia D, Zhou D, Xiao H, Wang Y, Xiong X, Mason SA, Pires JC, Snowdon R, Hua W, Liu Z (2021). Genomic insights into the origin, domestication and diversification of Brassica juncea. Nature Genetics. 53, 1392–1402 (2021)    
     
 Mabry ME, Turner SD, Gallagher EY, McAlvay AC, __An H__, Edger PP, Moore JD, Pink DAC, Teakle GR, Stevens CJ, Barker G, Labate J, Fuller DG, Alibi RG, Beissinger TM, Decker JE, Gore MA, Pires JC (2021). The Evolutionary History of Wild, Domesticated, and Feral Brassica oleracea (Brassicaceae). Molecular Biology and Evolution. msab183    
